@@ -1,10 +1,10 @@
-import { Button, Header } from "ui";
+import { Header, Buton } from "ui";
 
 export default function Page() {
   return (
     <>
-      <Header text="Docs" />
-      <Button />
+      <Header text="Tractor" />
+      <Buton>Tractor</Buton>
     </>
   );
 }

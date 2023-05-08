@@ -1,0 +1,35 @@
+.btn {
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    text-transform: capitalize;
+    width: auto;
+    transition: 0.2s ease-in-out;
+    cursor: pointer;
+    color: #fff;
+    width: 100%;
+  }
+  
+  .btn_primary {
+    font-size: 16px;
+    line-height: 40px;
+    padding: 0 15px;
+    border-radius: 4px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    background-color: #0D3B66 !important;
+    border: 1px solid #0D3B66;
+  }
+  
+  .btn_secondary {
+    font-size: 13px;
+    padding: 10px 20px;
+    line-height: initial;
+    border: 0;
+    background-color: #0D3B66 !important;
+    border-radius: 35px;
+    text-transform: capitalize;
+    position: relative;
+    margin: 0!important;
+  }
